@@ -1,0 +1,17 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.container
+{
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	background: url(1.jpg);
+	background-attachment: fixed;
+}
+.mixBlnd
+{
+	background-blend-mode: screen;
+}
